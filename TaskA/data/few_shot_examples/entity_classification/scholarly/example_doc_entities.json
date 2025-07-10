@@ -1,0 +1,105 @@
+{
+  "10_0": {
+    "terms": [
+      "adjective-i",
+      "irreflexive personal pronoun",
+      "allusive pronoun",
+      "adposition",
+      "relative determiner",
+      "interrogative particle",
+      "subordinating conjunction",
+      "adverb",
+      "main verb",
+      "fused preposition",
+      "reflexive personal pronoun",
+      "comparative particle",
+      "presentative pronoun",
+      "numeral",
+      "impersonal pronoun",
+      "pronoun",
+      "point",
+      "semi colon",
+      "interrogative multiplicative numeral"
+    ],
+    "types": [
+      "part of speech",
+      "adverb",
+      "pronominal adverb",
+      "prepositional adverb",
+      "general adverb",
+      "adposition",
+      "compound preposition",
+      "postposition",
+      "circumposition",
+      "preposition",
+      "numeral",
+      "cardinal numeral",
+      "numeral fraction",
+      "interrogative ordinal numeral",
+      "indefinite cardinal numeral",
+      "interrogative cardinal numeral",
+      "indefinite multiplicative numeral",
+      "indefinite ordinal numeral",
+      "multiplicative numeral",
+      "generic numeral",
+      "interrogative multiplicative numeral",
+      "pronoun",
+      "reciprocal pronoun",
+      "possessive pronoun",
+      "demonstrative pronoun",
+      "impersonal pronoun",
+      "adverbial pronoun",
+      "relative pronoun",
+      "indefinite pronoun",
+      "personal pronoun",
+      "presentative pronoun",
+      "conditional pronoun",
+      "negative pronoun"
+    ]
+  },
+  "8_0": {
+    "terms": [
+      "bound",
+      "no",
+      "yes"
+    ],
+    "types": [
+      "cliticness"
+    ]
+  },
+  "38_0": {
+    "terms": [
+      "preterite",
+      "imperfect",
+      "past",
+      "future",
+      "present"
+    ],
+    "types": [
+      "tense"
+    ]
+  },
+  "44_0": {
+    "terms": [],
+    "types": [
+      "noun frame",
+      "preposition frame",
+      "control",
+      "SyntacticFrame",
+      "adjective frame",
+      "verb frame",
+      "prepositional frame"
+    ]
+  },
+  "4_0": {
+    "terms": [],
+    "types": [
+      "adjunct",
+      "possessive adjunct",
+      "predicative adjunct",
+      "prepositional adjunct",
+      "comparative adjunct",
+      "superlative adjunct"
+    ]
+  }
+}
