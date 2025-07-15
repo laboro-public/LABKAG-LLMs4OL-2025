@@ -38,7 +38,7 @@ python entity_classification.py 2 # use EC Prompt 2
 ## Task C: TaxonomyDiscovery
 
 - Task C utilizes either OpenAI or Gemini.
-- The dataset is available at: https://github.com/sciknoworg/LLMs4OL-Challenge/tree/main/2025/TaskA-TaxonomyDiscovery
+- The dataset is available at: https://github.com/sciknoworg/LLMs4OL-Challenge/tree/main/2025/TaskC-TaxonomyDiscovery
 
 #### Run with Gemini
 ```bash
