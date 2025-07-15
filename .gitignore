@@ -1,3 +1,9 @@
+# Data and Output
+TaskA/data/*
+!TaskA/data/few_shot_examples/
+!TaskA/data/few_shot_examples/**
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
